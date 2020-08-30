@@ -9,7 +9,7 @@ function calculo(){
 
     valor=2+distancia*1.40+tempo*0.26
 
-    botao.innerHTML= 'Total R$ '+valor
+    botao.innerHTML= 'Total R$ '+converter(valor)
 
 }
 
